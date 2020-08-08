@@ -1,0 +1,32 @@
+#This is sample code for gitworkflow
+pseudo code()
+{
+product code()
+{
+ //Intial code for product release
+}
+if (date == 25)
+{
+  //Proceed with product release if date is 25th
+}
+Security Patch()
+{
+  //Applying security patch()
+}
+<<<<<<< HEAD
+Development code()
+{
+   //Sample deveploped code
+}
+Feature1 code()
+{
+   //Sampe Feature1 code
+}
+=======
+>>>>>>> Feature2
+Feature2 code()
+{
+    //Sample Feature2 code
+}
+
+}

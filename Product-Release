@@ -5,17 +5,17 @@ product code()
 {
  //Intial code for product release
 }
-if (date == 25)
+Feature1 code()
 {
-  //Proceed with product release if date is 25th
+   //Sampe Feature1 code
 }
 Secrity Patch()
 {
    //Applying security patch
 }
-Feature1 code()
+if (date == 25)
 {
-   //Sampe Feature1 code
+  //Proceed with product release if date is 25th
 }
 
 }
