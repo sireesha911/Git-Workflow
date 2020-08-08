@@ -5,14 +5,6 @@ product code()
 {
  //Intial code for product release
 }
-if (date == 25)
-{
-  //Proceed with product release if date is 25th
-}
-Security Patch()
-{
-  //Applying security patch()
-}
 Development code()
 {
    //Sample deveploped code
@@ -24,6 +16,14 @@ Feature1 code()
 Feature2 code()
 {
     //Sample Feature2 code
+}
+Security Patch()
+{
+  //Applying security patch()
+}
+if (date == 25)
+{
+  //Proceed with product release if date is 25th
 }
 
 }
