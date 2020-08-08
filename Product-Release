@@ -5,5 +5,9 @@ product code()
 {
  //Intial code for product release
 }
+Feature1 code()
+{
+   //Sampe Feature1 code
+}
 
 }
