@@ -1,0 +1,23 @@
+#This is sample code for gitworkflow
+pseudo code()
+{
+product code()
+{
+ //Intial code for product release
+}
+<<<<<<< HEAD
+Development code()
+{
+   //Sample deveploped code
+}
+Feature1 code()
+{
+   //Sampe Feature1 code
+=======
+Feature2 code()
+{
+    //Sample Feature2 code
+>>>>>>> Feature2
+}
+
+}
