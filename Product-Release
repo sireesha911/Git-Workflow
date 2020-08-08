@@ -13,5 +13,9 @@ Feature1 code()
 {
    //Sampe Feature1 code
 }
+Feature2 code()
+{
+    //Sample Feature2 code
+}
 
 }
